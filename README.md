@@ -34,15 +34,20 @@ Experimental results fully verify the effectiveness of the proposed method in al
 In this experiment, we aim to investigate the effectiveness of EN in alleviating the FEB problem.
 ### Data
 We used nine multi-view datasets in this experiment:
-- [MVoxCeleb]()
-- [YoutubeFace]()
-- [NUS-WIDE-128 (NUS)]()
-- [Reuters5]()
-- [Reuters3]()
-- [CB]()
-- [MM-IMDB]()
-- [NTU RGB-D]()
-- [EgoGesture]()<br>
+
+| Datasets            | Original Dataset URL | Original Password | Processed Dataset URL | Processed Password |
+|---------------------|----------------------|------------------|-----------------------|--------------------|
+| MVoxCeleb           | [link]()             |                  | [link]()              |                    |
+| YoutubeFace         | [link]()             |                  | [link]()              |                    |
+| NUS-WIDE-128 (NUS)  | [link]()             |                  | [link]()              |                    |
+| Reuters5            | [link]()             |                  | [link]()              |                    |
+| Reuters3            | [link]()             |                  | [link]()              |                    |
+| CB                  | [link]()             |                  | [link]()              |                    |
+| MM-IMDB             | [link]()             |                  | [link]()              |                    |
+| NTU RGB-D           | [link]()             |                  | [link]()              |                    |
+| EgoGesture          | [link]()             |                  | [link]()              |                    |
+
+
 To facilitate code reproducibility, we have provided all necessary resources within each dataset link, including the five-fold split data, teacher model logits and soft labels, as well as the kernel and mutual information matrices required for the experiments. Readers can directly download and use them.
 
 ### Experiment Workflow
