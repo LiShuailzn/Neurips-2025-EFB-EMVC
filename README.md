@@ -83,7 +83,7 @@ We list below the works most relevant to this paper, including but not limited t
 - DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
 - Core-structures-guided multi-modal classification neural architecture search [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
 - CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681351)
-- Evolutionary deep fusion method and its application in chemical structure recognition [[paper]](https://github.com/xinyanliang/EDFv0.1)
+- Evolutionary deep fusion method and its application in chemical structure recognition [[paper]](https://ieeexplore.ieee.org/document/9373673)
 
 <!-- ## 🙏 Acknowledgement -->
 
