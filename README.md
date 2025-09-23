@@ -1,3 +1,5 @@
+_**This paper has been accepted to NeurIPS 2025 as a Spotlight.**_
+
 <h2 align="center"> <a href="https://openreview.net/pdf?id=U64wEbM7NB">Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias</a></h2>
 
 <div align="center">
@@ -67,7 +69,11 @@ python code/train_tree_youtube.py
 If you find this repository useful, please cite our paper:
 ```
 @inproceedings{
-
+liang2025EFB-EMVC,
+title={Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias},
+author={Xinyan Liang, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du},
+booktitle={Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)},
+year={2025},
 }
 ```
 
