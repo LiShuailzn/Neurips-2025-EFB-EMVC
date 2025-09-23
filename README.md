@@ -42,13 +42,14 @@ We used nine multi-view datasets in this experiment:
 | NUS-WIDE-128 (NUS)  | [link]()             |                  | [link]()              |                    |
 | Reuters5            | [link]()             |                  | [link]()              |                    |
 | Reuters3            | [link]()             |                  | [link]()              |                    |
-| CB                  | [link]()             |                  | [link]()              |                    |
-| MM-IMDB             | [link]()             |                  | [link]()              |                    |
-| NTU RGB-D           | [link]()             |                  | [link]()              |                    |
-| EgoGesture          | [link]()             |                  | [link]()              |                    |
+| CB                  | [link]()             |                  |                       |                    |
+| MM-IMDB             | [link]()             |                  |                       |                    |
+| NTU RGB-D           | [link]()             |                  |                       |                    |
+| EgoGesture          | [link]()             |                  |                       |                    |
 
 
-To facilitate code reproducibility, we have provided all necessary resources within each dataset link, including the five-fold split data, teacher model logits and soft labels, as well as the kernel and mutual information matrices required for the experiments. Readers can directly download and use them.
+To facilitate code reproducibility, we have provided all necessary resources within each dataset link, including the five-fold split data, teacher model logits and soft labels, as well as the kernel and mutual information matrices required for the experiments. Readers can directly download and use them.<br>
+For the CB, MM-IMDB, NTU RGB-D, and EgoGesture datasets, since the original authors have already provided the train-test splits, we only repeated the experiments five times on these datasets. Accordingly, the corresponding resources are listed only under the Original Dataset URL column.
 
 ### Experiment Workflow
 To mitigate the FEB problem, we introduce EN into each view branch of MVM. EN is designed as a pre-trained network with the same architecture as the teacher model. Accordingly, the experimental workflow consists of: (1) pre-training EN and extracting logits; (2) constructing the mutual information matrix; (3) the EMVC method driven by unbiased fitness evaluation.
