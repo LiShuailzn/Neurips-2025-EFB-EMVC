@@ -1,6 +1,6 @@
 _**This paper has been accepted to NeurIPS 2025 as a Spotlight.**_
 
-<h2 align="center"> <a href="https://openreview.net/pdf?id=U64wEbM7NB">Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias</a></h2>
+<h2 align="center"> <a href="https://nips.cc/virtual/2025/poster/115223">Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias</a></h2>
 
 <div align="center">
 
@@ -13,7 +13,6 @@ _**This paper has been accepted to NeurIPS 2025 as a Spotlight.**_
 <sup>5</sup>College of Science, National University of Defense Technology<br>
 
 
-<!-- <a href='https://openreview.net/pdf?id=U64wEbM7NB'><img src='https://img.shields.io/badge/OpenReview-gray'></a> &nbsp; -->
 <a href='https://nips.cc/virtual/2025/poster/115223'><img src='https://img.shields.io/badge/NIPS%202025-Poster-blue'></a>&nbsp;
 
 </div>
