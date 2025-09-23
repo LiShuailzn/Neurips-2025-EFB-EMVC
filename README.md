@@ -77,5 +77,18 @@ year={2025},
 }
 ```
 
+## 🔬 Related Work
+We list below the works most relevant to this paper, including but not limited to the following:
+- Trusted multi-view classification via evolutionary multi-view fusion [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
+- DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
+- Core-structures-guided multi-modal classification neural architecture search [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
+- CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681351)
+- Evolutionary deep fusion method and its application in chemical structure recognition [[paper]](Evolutionary deep fusion method and its application in chemical structure recognition)
+
+<!-- ## 🙏 Acknowledgement -->
+
+
+
+
 ## 📬Contact
 If you have any detailed questions or suggestions, you can email us: [lishuai_liuzhaona@163.com](mailto:lishuai_liuzhaona@163.com)
