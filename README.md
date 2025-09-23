@@ -35,21 +35,21 @@ In this experiment, we aim to investigate the effectiveness of EN in alleviating
 ### Data
 We used nine multi-view datasets in this experiment:
 
-| Datasets            | Original Dataset URL | Original Password | Processed Dataset URL | Processed Password |
-|---------------------|----------------------|------------------|-----------------------|--------------------|
-| MVoxCeleb           | [link]()             |                  | [link]()              |                    |
-| YoutubeFace         | [link]()             |                  | [link]()              |                    |
-| NUS-WIDE-128 (NUS)  | [link]()             |                  | [link]()              |                    |
-| Reuters5            | [link]()             |                  | [link]()              |                    |
-| Reuters3            | [link]()             |                  | [link]()              |                    |
-| CB                  | [link]()             |                  |                       |                    |
-| MM-IMDB             | [link]()             |                  |                       |                    |
-| NTU RGB-D           | [link]()             |                  |                       |                    |
-| EgoGesture          | [link]()             |                  |                       |                    |
+| Datasets            | Dataset URL          |    Password      | 
+|---------------------|----------------------|------------------|
+| MVoxCeleb           | [link]()             |                  |
+| YoutubeFace         | [link]()             |                  | 
+| NUS-WIDE-128 (NUS)  | [link]()             |                  | 
+| Reuters5            | [link]()             |                  | 
+| Reuters3            | [link]()             |                  | 
+| CB                  | [link]()             |                  |  
+| MM-IMDB             | [link]()             |                  |               
+| NTU RGB-D           | [link]()             |                  |                
+| EgoGesture          | [link]()             |                  |                
 
 
-To facilitate code reproducibility, we have provided all necessary resources within each dataset link, including the five-fold split data, teacher model logits and soft labels, as well as the kernel and mutual information matrices required for the experiments. Readers can directly download and use them.<br>
-For the CB, MM-IMDB, NTU RGB-D, and EgoGesture datasets, since the original authors have already provided the train-test splits, we only repeated the experiments five times on these datasets. Accordingly, the corresponding resources are listed only under the Original Dataset URL column.
+For the nine multi-view datasets, the CB, MM-IMDB, NTU RGB-D, and EgoGesture datasets already come with predefined train-test splits provided by the original authors, so we only repeated the experiments five times on these datasets. The remaining datasets were evaluated using five-fold cross-validation.<br>
+To facilitate code reproducibility, for the datasets where experiments were repeated five times, we provide not only the original split data but also the teacher model logits and soft labels, as well as the kernel and mutual information matrices required for the experiments. For the datasets requiring five-fold cross-validation, we likewise provide the original experimental data along with the five-fold split data, teacher model logits and soft labels, and the corresponding kernel and mutual information matrices. Readers can directly download and use these resources, enabling them to flexibly select and utilize the datasets according to their needs.
 
 ### Experiment Workflow
 To mitigate the FEB problem, we introduce EN into each view branch of MVM. EN is designed as a pre-trained network with the same architecture as the teacher model. Accordingly, the experimental workflow consists of: (1) pre-training EN and extracting logits; (2) constructing the mutual information matrix; (3) the EMVC method driven by unbiased fitness evaluation.
