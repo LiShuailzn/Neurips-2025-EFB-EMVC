@@ -62,8 +62,8 @@ python code/gain_T_logits.py
 ```
 2. **Constructing the mutual information matrix**
 ```bash
-python code/HSIC/kernel_matrix.py.py
-python code/HSIC/HSIC.py.py
+python code/HSIC/kernel_matrix.py
+python code/HSIC/HSIC.py
 ```
 3. **The EMVC method driven by unbiased fitness evaluation**
 ```bash
