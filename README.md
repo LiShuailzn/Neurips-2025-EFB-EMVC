@@ -35,17 +35,17 @@ In this experiment, we aim to investigate the effectiveness of EN in alleviating
 ### Data
 We used nine multi-view datasets in this experiment:
 
-| Datasets            | Dataset URL          |    Password      | 
-|---------------------|----------------------|------------------|
-| MVoxCeleb           | [link]()             |                  |
-| YoutubeFace         | [link]()             |                  | 
-| NUS-WIDE-128 (NUS)  | [link]()             |                  | 
-| Reuters5            | [link]()             |                  | 
-| Reuters3            | [link]()             |                  | 
-| CB                  | [link]()             |                  |  
-| MM-IMDB             | [link]()             |                  |               
-| NTU RGB-D           | [link]()             |                  |                
-| EgoGesture          | [link]()             |                  |                
+| Datasets            | Dataset URL                                            |    Password      | 
+|---------------------|--------------------------------------------------------|------------------|
+| MVoxCeleb           | [link](https://pan.baidu.com/s/1k6DN1m64bnrRfLK8RiFmqQ)|     ls12         |
+| YoutubeFace         | [link](https://pan.baidu.com/s/1SVTWfHpAUdFWwiU5o-kD7Q)|     ls34         | 
+| NUS-WIDE-128 (NUS)  | [link](https://pan.baidu.com/s/1udO5jvolHIbd8lOV3w4SYA)|     ls56         | 
+| Reuters5            | [link](https://pan.baidu.com/s/1j8pmo88vXsO9pBWQiHVmYA)|     ls78         | 
+| Reuters3            | [link](https://pan.baidu.com/s/1ti4OWqXTVnPDhsZ7VjahGQ)|     ls10         | 
+| CB                  | [link](https://pan.baidu.com/s/1CqnQFkPkiT-e8ETh2iYcsw)|     lss1         |  
+| MM-IMDB             | [link](https://pan.baidu.com/s/1FuiJHU8Xqjt5e_xCvnZwfw)|     lss2         |               
+| NTU RGB-D           | [link](https://pan.baidu.com/s/1eam19lCIsXxfzyX6CaOgPw)|     lss3         |                
+| EgoGesture          | [link](https://pan.baidu.com/s/1eobwPKqCRe6RereGEcwQWA)|     lss4         |                
 
 
 For the nine multi-view datasets, the CB, MM-IMDB, NTU RGB-D, and EgoGesture datasets already come with predefined train-test splits provided by the original authors, so we only repeated the experiments five times on these datasets. The remaining datasets were evaluated using five-fold cross-validation.<br>
