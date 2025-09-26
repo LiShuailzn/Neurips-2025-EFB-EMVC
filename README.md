@@ -27,7 +27,7 @@ Experimental results fully verify the effectiveness of the proposed method in al
 
 ## 🏗️Model
 <div align="center">
-  <img src="model.png" />
+  <img src="model.svg" />
 </div>
 
 ## 🎞️Experiment
