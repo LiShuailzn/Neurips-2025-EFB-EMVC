@@ -84,7 +84,7 @@ year={2025},
 
 ## 🔬 Related Work
 We list below the works most relevant to this paper, including but not limited to the following:<br>
-**_Our research group [[link]](https://xinyanliang.github.io/)_**
+**_Our research group [[link]](https://xinyanliang.github.io/publications/)_**
 - Evolutionary deep fusion method and its application in chemical structure recognition, _IEEE TEVC 21_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
 - Trusted multi-view classification via evolutionary multi-view fusion, _ICLR 25_, [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
 - Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias, NeurIPS 25, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
@@ -97,7 +97,7 @@ We list below the works most relevant to this paper, including but not limited t
 
 **_Others_**
 - Enhancing Multimodal Learning via Hierarchical Fusion Architecture Search with Inconsistency Mitigation, _IEEE TIP 25_, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11134693)
-- Harmonic-NAS: Hardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices, _PMLR 24_, [[paper]](https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf)
+- Harmonic-NAS: Hardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices, _ACML 23_, [[paper]](https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf)
 - Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation, _IF 25_, [[paper]](https://arxiv.org/pdf/2007.06002)
 - Hierarchical multi-modal fusion architecture search for stock market forecasting, _Applied Soft Computing 25_, [[paper]](https://www.sciencedirect.com/science/article/pii/S1568494625008920?casa_token=TZOWE_icAokAAAAA:YH8vB-WqZC03tYf8DV6WaVqMH78aoprjybDSwEDQlF6nSJ0SrQrf1lFh-OHwzHDiYu-iFHz38U8)
 - Automatic fused multimodal deep learning for plant identification, _Frontiers in Plant Science 25_, [[paper]](https://arxiv.org/pdf/2406.01455?)
