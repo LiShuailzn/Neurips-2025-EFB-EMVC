@@ -85,8 +85,8 @@ year={2025},
 ## 🔬 Related Work
 We list below the works most relevant to this paper, including but not limited to the following:<br>
 **_Our research group [[link]](https://xinyanliang.github.io/)_**
-- Evolutionary deep fusion method and its application in chemical structure recognition, _(IEEE TEVC)_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
-- Multi-scale features are effective for multi-modal classification: An architecture search viewpoint, _(IEEE TCSVT)_, [[paper]](https://ieeexplore.ieee.org/document/10700772)
+- Evolutionary deep fusion method and its application in chemical structure recognition, _(IEEE TEVC-21)_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
+- Multi-scale features are effective for multi-modal classification: An architecture search viewpoint, _(IEEE TCSVT-25)_, [[paper]](https://ieeexplore.ieee.org/document/10700772)
 - Trusted multi-view classification via evolutionary multi-view fusion, _(ICLR-25)_, [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
 - DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification, _(AAAI-24)_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
 - Core-structures-guided multi-modal classification neural architecture search, _(IJCAI-24)_, [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
