@@ -30,6 +30,10 @@ Experimental results fully verify the effectiveness of the proposed method in al
   <img src="model.svg" />
 </div>
 
+## 🚀 Environment
+In our experiments, all methods are implemented using TensorFlow 2.10.0.
+The computing environment includes Ubuntu 24.04.2 LTS as the operating system, equipped with an AMD EPYC processor with 160 physical cores (320 logical threads), 566 GB of DDR4 memory, and 8 NVIDIA GeForce RTX 5090 GPUs, each with 32 GB of VRAM. The experimental setup is based on Python 3.9.23 and CUDA 11.2.
+
 ## 🎞️Experiment
 In this experiment, we aim to investigate the effectiveness of EN in alleviating the FEB problem.
 ### Data
