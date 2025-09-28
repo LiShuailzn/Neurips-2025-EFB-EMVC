@@ -23,10 +23,10 @@ Evolutionary multi-view classification (EMVC) methods have gained wide recogniti
 However, when FE fails to correctly reflect the superiority-inferiority relationship among individuals, it will lead to confusion in individual performance ranking, which in turn misleads the evolutionary direction and results in trapping into local optima. 
 
 This paper is the first to identify the aforementioned issue in the field of EMVC and call it as fitness evaluation bias (FEB).
-FEB may be caused by a variety of factors, and this paper approaches the issue from the perspective of view information content: existing methods generally adopt joint training strategies, which restrict the exploration of key information in views with low information content. This makes it difficult for multi-view models (MVM) to achieve optimal performance during convergence, which in turn leads to FE failing to accurately reflect individual performance rankings and ultimately triggering FEB.
+FEB may be caused by a variety of factors, and this paper approaches the issue from the perspective of view information content: existing methods generally adopt joint training strategies, which restrict the exploration of key information in views with low information content. This makes it difficult for multi-view model (MVM) to achieve optimal performance during convergence, which in turn leads to FE failing to accurately reflect individual performance rankings and ultimately triggering FEB.
+To address this issue, we propose an evolutionary multi-view classification via eliminating individual fitness bias (EFB-EMVC) method, which alleviates the FEB issue by introducing evolutionary navigators for each MVM, thereby providing more accurate individual ranking.
 
 
-To address this issue, we propose an evolutionary multi-view classification via eliminating individual fitness bias approach (EFB-EMVC). This approach alleviates the FEB problem by introducing evolutionary navigators for each MVM, thereby providing relatively accurate individual ranking.
 Experimental results fully verify the effectiveness of the proposed method in alleviating the FEB problem, and the EMVC method equipped with this strategy exhibits more superior performance compared with the original EMVC method.
 
 ## 🏗️Model
