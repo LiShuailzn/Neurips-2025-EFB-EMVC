@@ -96,7 +96,7 @@ year={2025},
 We list below the works most relevant to this paper, including but not limited to the following:<br>
 **_Our research group [[link]](https://xinyanliang.github.io/publications/)_**
 - Evolutionary deep fusion method and its application in chemical structure recognition, _IEEE TEVC21_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
-- Evolutionary multi-view classification via eliminating individual fitness bias, NeurIPS25, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
+- Evolutionary multi-view classification via eliminating individual fitness bias, _NeurIPS25_, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
 - Trusted multi-view classification via evolutionary multi-view fusion, _ICLR25_, [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
 - DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification, _AAAI24_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
 - Core-structures-guided multi-modal classification neural architecture search, _IJCAI24_, [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
