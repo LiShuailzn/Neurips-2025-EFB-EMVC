@@ -89,26 +89,26 @@ year={2025},
 ## 🔬 Related Work
 We list below the works most relevant to this paper, including but not limited to the following:<br>
 **_Our research group [[link]](https://xinyanliang.github.io/publications/)_**
-- Evolutionary deep fusion method and its application in chemical structure recognition, _IEEE TEVC 21_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
-- Evolutionary multi-view classification via eliminating individual fitness bias, NeurIPS 25, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
-- Trusted multi-view classification via evolutionary multi-view fusion, _ICLR 25_, [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
-- DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification, _AAAI 24_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
-- Core-structures-guided multi-modal classification neural architecture search, _IJCAI 24_, [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
-- CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification, _ACM MM 24_, [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681351)
-- A fast neural architecture search method for multi-modal classification via Knowledge Sharing, _IJCAI 25_, [[paper]](https://www.ijcai.org/proceedings/2025/557)
-- Multi-scale features are effective for multi-modal classification: An architecture search viewpoint, _IEEE TCSVT 25_, [[paper]](https://ieeexplore.ieee.org/document/10700772)
+- Evolutionary deep fusion method and its application in chemical structure recognition, _IEEE TEVC21_, [[paper]](https://ieeexplore.ieee.org/document/9373673)
+- Evolutionary multi-view classification via eliminating individual fitness bias, NeurIPS25, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
+- Trusted multi-view classification via evolutionary multi-view fusion, _ICLR25_, [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
+- DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification, _AAAI24_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29281)
+- Core-structures-guided multi-modal classification neural architecture search, _IJCAI24_, [[paper]](https://www.ijcai.org/proceedings/2024/0440.pdf)
+- CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification, _ACM MM24_, [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681351)
+- A fast neural architecture search method for multi-modal classification via Knowledge Sharing, _IJCAI25_, [[paper]](https://www.ijcai.org/proceedings/2025/557)
+- Multi-scale features are effective for multi-modal classification: An architecture search viewpoint, _IEEE TCSVT25_, [[paper]](https://ieeexplore.ieee.org/document/10700772)
 
 
 **_Others_**
-- Enhancing multimodal learning via hierarchical fusion architecture search with inconsistency mitigation, _IEEE TIP 25_, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11134693)
-- Enhanced protein secondary structure prediction through multi-view multi-feature evolutionary deep fusion method, _IEEE TETCI 25_, [[paper]](https://ieeexplore.ieee.org/abstract/document/10839444)
-- BM-NAS: Bilevel multimodal neural architecture search, _AAAI 22_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20872)
-- Deep multimodal neural architecture search, _ACM MM 20_, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11134693)
-- Harmonic-NAS: Hardware-aware multimodal neural architecture search on resource-constrained devices, _ACML 23_, [[paper]](https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf)
-- Hierarchical multi-modal fusion architecture search for stock market forecasting, _Applied Soft Computing 25_, [[paper]](https://www.sciencedirect.com/science/article/pii/S1568494625008920?casa_token=TZOWE_icAokAAAAA:YH8vB-WqZC03tYf8DV6WaVqMH78aoprjybDSwEDQlF6nSJ0SrQrf1lFh-OHwzHDiYu-iFHz38U8)
-- Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation, _IF 25_, [[paper]](https://arxiv.org/pdf/2007.06002)
-- Automatic fused multimodal deep learning for plant identification, _Frontiers in Plant Science 25_, [[paper]](https://arxiv.org/pdf/2406.01455?)
-- Core structure-guided multi-modal classification via monte carlo tree search, _International Journal of Machine Learning and Cybernetics 25_, [[paper]](https://link.springer.com/article/10.1007/s13042-025-02606-z)
+- Enhancing multimodal learning via hierarchical fusion architecture search with inconsistency mitigation, _IEEE TIP25_, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11134693)
+- Enhanced protein secondary structure prediction through multi-view multi-feature evolutionary deep fusion method, _IEEE TETCI25_, [[paper]](https://ieeexplore.ieee.org/abstract/document/10839444)
+- BM-NAS: Bilevel multimodal neural architecture search, _AAAI22_, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20872)
+- Deep multimodal neural architecture search, _ACMMM20_, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11134693)
+- Harmonic-NAS: Hardware-aware multimodal neural architecture search on resource-constrained devices, _ACML23_, [[paper]](https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf)
+- Hierarchical multi-modal fusion architecture search for stock market forecasting, _Applied Soft Computing25_, [[paper]](https://www.sciencedirect.com/science/article/pii/S1568494625008920?casa_token=TZOWE_icAokAAAAA:YH8vB-WqZC03tYf8DV6WaVqMH78aoprjybDSwEDQlF6nSJ0SrQrf1lFh-OHwzHDiYu-iFHz38U8)
+- Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation, _IF25_, [[paper]](https://arxiv.org/pdf/2007.06002)
+- Automatic fused multimodal deep learning for plant identification, _Frontiers in Plant Science25_, [[paper]](https://arxiv.org/pdf/2406.01455?)
+- Core structure-guided multi-modal classification via monte carlo tree search, _IJMLC25_, [[paper]](https://link.springer.com/article/10.1007/s13042-025-02606-z)
 
 <!-- ## 🙏 Acknowledgement -->
 
