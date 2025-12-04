@@ -4,7 +4,7 @@ _**This paper has been accepted to NeurIPS 2025 as a Spotlight.**_
 
 <div align="center">
 
-**[Xinyan Liang<sup>1,2</sup>](https://xinyanliang.github.io/), [_Shuai Li_<sup>1</sup>](https://github.com/LiShuailzn), _Qian Guo_<sup>3</sup>, [_Yuhua Qian_<sup>1*</sup>](http://dig.sxu.edu.cn/qyh/),  _Bingbing Jiang_<sup>4</sup>, _Tingjin Luo_<sup>5</sup>, _Liang Du_<sup>1</sup>**
+**[Xinyan Liang<sup>1,2</sup>](https://xinyanliang.github.io/), [_Shuai Li_<sup>1</sup>](https://lishuailzn.github.io/), _Qian Guo_<sup>3</sup>, [_Yuhua Qian_<sup>1*</sup>](http://dig.sxu.edu.cn/qyh/),  _Bingbing Jiang_<sup>4</sup>, _Tingjin Luo_<sup>5</sup>, _Liang Du_<sup>1</sup>**
 
 <sup>1</sup>Institute of Big Data Science and Industry, Shanxi University<br>
 <sup>2</sup>State Key Laboratory of AI Safety, Beijing, 100086<br>
